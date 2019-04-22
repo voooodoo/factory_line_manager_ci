@@ -11,4 +11,4 @@ deploy:
   provider: heroku
   app: "factory-line-manager-ci"
   api_key:
-    secure: "50fc01ab-6a72-4298-89c6-78d783cce3a2"
+    secure: DEPLOY_SECURE
